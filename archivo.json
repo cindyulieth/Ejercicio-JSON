@@ -6,6 +6,7 @@
             "direccion": "avenida de ansaldo, 25b",
             "localidad": "playa de san juan",
             "provincia": "Alicante",
+            "codigoPostal":"03540",
             "productos": [
                 {
                     "nombre": "Leche semidesnatada",
@@ -49,6 +50,7 @@
             "direccion": "calle caja de ahorros,2",
             "localidad": "playa de san juan",
             "provincia": "Alicante",
+            "codigoPostal":"03540",
             "productos": [
                 {
                     "nombre": "cafe",
@@ -92,6 +94,7 @@
             "direccion": "calle caja de ahorros,5",
             "localidad": "playa de san juan",
             "provincia": "Alicante",
+            "codigoPostal":"03540",
             "productos": [
                 {
                     "nombre": "arroz",
