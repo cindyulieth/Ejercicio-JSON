@@ -1,0 +1,46 @@
+
+//ejemplo de supermercado en formato xml
+
+<supermercado>
+    <nombre>Supermercado lidl</nombre>
+    <direccion>calle caja de ahorros,5</direccion>
+    <localidad>playa de san juan</localidad>
+    <provincia>Alicante</provincia>
+    <productos>
+        <producto>
+            <nombre>arroz</nombre>
+            <oferta>true</oferta>
+            <vigencia>
+                <desde>2023-04-20</desde>
+                <hasta>2023-04-25</hasta>
+            </vigencia>
+            <habitual>false</habitual>
+            <cantidad>1</cantidad>
+            <unidad_medida>1k</unidad_medida>
+            <precio>0.99</precio>
+            <adquirido>true</adquirido>
+        </producto>
+        <producto>
+            <nombre>pollo</nombre>
+            <oferta>false</oferta>
+            <habitual>true</habitual>
+            <cantidad>1</cantidad>
+            <unidad_medida>1300gr</unidad_medida>
+            <precio>6.56</precio>
+            <adquirido>true</adquirido>
+        </producto>
+        <producto>
+            <nombre>tomate</nombre>
+            <oferta>true</oferta>
+            <vigencia>
+                <desde>2023-04-20</desde>
+                <hasta>2023-04-25</hasta>
+            </vigencia>
+            <habitual>false</habitual>
+            <cantidad>1</cantidad>
+            <unidad_medida>1k</unidad_medida>
+            <precio>2.39</precio>
+            <adquirido>true</adquirido>
+        </producto>
+    </productos>
+</supermercado>

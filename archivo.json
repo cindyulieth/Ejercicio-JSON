@@ -1,0 +1,137 @@
+
+{
+    " lista de compra": [
+        {
+            "nombre": "Supermercado Aldi",
+            "direccion": "avenida de ansaldo, 25b",
+            "localidad": "playa de san juan",
+            "provincia": "Alicante",
+            "productos": [
+                {
+                    "nombre": "Leche semidesnatada",
+                    "oferta": true,
+                    "vigencia": {
+                        "desde": "2023-04-01",
+                        "hasta": "2023-04-30"
+                    },
+                    "habitual": false,
+                    "cantidad": 1,
+                    "unidad_medida": "litro",
+                    "precio": 0.99,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "Huevos M",
+                    "oferta": false,
+                    "habitual": true,
+                    "cantidad": 12,
+                    "unidad_medida": "unidades",
+                    "precio": 2.05,
+                    "adquirido": false
+                },
+                {
+                    "nombre": "detergente",
+                    "oferta": true,
+                    "vigencia": {
+                        "desde": "2023-04-10",
+                        "hasta": "2023-04-15"
+                    },
+                    "habitual": false,
+                    "cantidad": 1,
+                    "unidad_medida": "litro",
+                    "precio": 5.95,
+                    "adquirido": true
+                }
+            ]
+        },
+        {
+            "nombre": "Supermercado mercadona",
+            "direccion": "calle caja de ahorros,2",
+            "localidad": "playa de san juan",
+            "provincia": "Alicante",
+            "productos": [
+                {
+                    "nombre": "cafe",
+                    "oferta": true,
+                    "vigencia": {
+                        "desde": "2023-04-10",
+                        "hasta": "2023-04-15"
+                    },
+                    "habitual": false,
+                    "cantidad": 1,
+                    "unidad_medida": "500gr",
+                    "precio": 6.05,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "pan",
+                    "oferta": false,
+                    "habitual": true,
+                    "cantidad": 1,
+                    "unidad_medida": "unidades",
+                    "precio": 1.29,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "zanahorias",
+                    "oferta": true,
+                    "vigencia": {
+                        "desde": "2023-04-10",
+                        "hasta": "2023-04-15"
+                    },
+                    "habitual": false,
+                    "cantidad": 1,
+                    "unidad_medida": "1k",
+                    "precio": 0.79,
+                    "adquirido": true
+                }
+            ]
+        },
+        {
+            "nombre": "Supermercado lidl",
+            "direccion": "calle caja de ahorros,5",
+            "localidad": "playa de san juan",
+            "provincia": "Alicante",
+            "productos": [
+                {
+                    "nombre": "arroz",
+                    "oferta": true,
+                    "vigencia": {
+                        "desde": "2023-04-20",
+                        "hasta": "2023-04-25"
+                    },
+                    "habitual": false,
+                    "cantidad": 1,
+                    "unidad_medida": "1k",
+                    "precio": 0.99,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "pollo",
+                    "oferta": false,
+                    "habitual": true,
+                    "cantidad": 1,
+                    "unidad_medida": "1300gr",
+                    "precio": 6.56,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "tomate",
+                    "oferta": true,
+                    "vigencia": {
+                        "desde": "2023-04-20",
+                        "hasta": "2023-04-25"
+                    },
+                    "habitual": false,
+                    "cantidad": 1,
+                    "unidad_medida": "1k",
+                    "precio": 2.39,
+                    "adquirido": true
+                }
+            ]
+        }
+
+
+
+    ]
+}
